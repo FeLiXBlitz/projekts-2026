@@ -1,17 +1,26 @@
 Kāds varētu būt projekta nosaukums?
 
+    StudyBuddy
 
 Ko projekts dara vienā teikumā?
 
+    Palīdz studentiem organizēt mācības, sekot uzdevumiem un uzlabot produktivitāti.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+    Daudziem studentiem ir grūti sekot līdzi termiņiem, prioritātēm un mācību slodzei — šis ir produktivitātes rīks, kas palīdz strukturēt ikdienas darbus.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
+    Studenti (īpaši vidusskolā vai universitātē).
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+    Vienkārša GUI
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+    1)Uzdevumu pievienošana ar termiņiem
+    2)Atgādinājumi par termiņiem
+    3)Vienkāršs kalendāra skats
+
 
