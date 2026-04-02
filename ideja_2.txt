@@ -1,11 +1,14 @@
 Kāds varētu būt projekta nosaukums?
 
+    Book Alert
 
 Ko projekts dara vienā teikumā?
 
+    Lietotāja iespēja ievadīt savu grāmatu un saiti uz vietni, kurā lietotājs lasa, kā arī paziņojumu pēc nedēļas/mēneša, lai pārbaudītu, vai nav publicētas jaunas nodaļas.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+    
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
