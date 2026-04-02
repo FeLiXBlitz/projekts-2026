@@ -8,7 +8,7 @@ Ko projekts dara vienā teikumā?
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
-    Lietotājam nebūs jāatceras, kurā lapā viņš apstājas, viņam nebūs jāuzglabā simtiem cilņu katrai grāmatai dažādās vietnēs, un viņš varēs ātri apskatīt savas piezīmes par konkrētu grāmatu.
+    Lietotājam nebūs jāatceras, kurā lapā viņš apstājas un viņš varēs ātri apskatīt savas piezīmes par konkrētu grāmatu.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
