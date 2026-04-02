@@ -12,10 +12,12 @@ Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklai
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
-    
+    Tiem, kam patīk lasīt grāmatas, kuras viņi uzduras sev. Aptuveni visu vecumu cilvēkiem.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+    vienkāršā GUI
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+    1) Grāmatas nosaukums un kārtošana pēc nosaukuma
