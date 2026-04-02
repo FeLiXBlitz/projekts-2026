@@ -16,7 +16,7 @@ Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēj
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
-    Telegram bots
+    vienkāršā GUI
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
