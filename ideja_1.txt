@@ -1,17 +1,25 @@
 Kāds varētu būt projekta nosaukums?
 
+    BookScore
 
 Ko projekts dara vienā teikumā?
 
+    Lietotājs ievada izlasītās/nepabeigtās grāmatas un savu viedokli par tām, lai neaizmirstu, pie kuras lappuses viņš apstājas un cik ļoti tās viņam patika/nepatika.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+    Lietotājam nebūs jāatceras, kurā lapā viņš apstājas, viņam nebūs jāuzglabā simtiem cilņu katrai grāmatai dažādās vietnēs, un viņš varēs ātri apskatīt savas piezīmes par konkrētu grāmatu.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
+    Tiem, kam patīk lasīt grāmatas, kuras viņi uzduras sev. Aptuveni visu vecumu cilvēkiem.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+    Telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+    1) Kopējais lappušu skaits un izlasīto lappušu skaits (iespējams, % no visām lappusēm)
+    2) Iespēja veikt piezīmes par grāmatu (viedoklis, grāmatas kopsavilkums un sižets vietā, kur lietotājs pārtrauca lasīt)
+    3) Grāmatas nosaukums un kārtošana pēc nosaukuma
