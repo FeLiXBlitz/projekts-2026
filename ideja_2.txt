@@ -8,10 +8,11 @@ Ko projekts dara vienā teikumā?
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
-    
+    Lietotājam nebūs jāuzglabā simtiem saišu uz katru grāmatu, lai turpinātu lasīšanu, un lietotājs neaizmirsīs lasīt jaunas grāmatu nodaļas.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
+    
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
