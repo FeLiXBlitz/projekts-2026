@@ -23,4 +23,16 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
     2)Atgādinājumi par termiņiem
     3)Vienkāršs kalendāra skats
 
+Funkcionālas prasības:
+1)Sistēma jāspēj reģistrēt jaunus lietotājus.
+2)Lietotājiem jābūt iespējai gadiem izveidot studiju grupas.
+3)Studiju grupām jābūt iespējai dalīties ar mācību materiāliem.
+4)Sistēma jāspēj piedāvāt personalizētus mācību plānus.
+5)Jābūt iespējai nosūtīt ziņas starp lietotājiem.
+
+Nefunkcionālas prasības:
+1)Sistēmai jābūt pieejamai 99% laika.
+2)Lietotāja interfeiss jābūt intuitīvs un viegli lietojams.
+3)Sistēmas veiktspēja jābūt optimizētai, lai nodrošinātu ātru reakcijas laiku.
+
 
