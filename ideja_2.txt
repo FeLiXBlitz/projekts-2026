@@ -23,3 +23,15 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
     1) Grāmatas nosaukums un kārtošana pēc nosaukuma
     2) Pievienot grāmatai darbojošos saiti
     3) Paziņojumi reizi nedēļā, mēnesī vai pēc lietotāja ieskatiem
+
+Funkcionālās prasības:
+1 Sistēma ļauj lietotājiem pievienot, rediģēt, dzēst un apskatīt viņu grāmatu sarakstu ar grāmatas nosaukumu, autoru un saitēm uz lasīšanas vietnēm.
+2 Katrai grāmatai var pievienot un atjaunināt saiti uz tīmekļa vietni, kurā lietotājs lasa grāmatu, nodrošinot ātru piekļuvi.
+3 Lietotājs var iestatīt paziņojumu biežumu (reizi nedēļā, reizi mēnesī vai pēc paša ieskatiem) katrai grāmatai vai visām grāmatām kopā.
+4 Sistēma automātiski nosūta paziņojumus lietotājam noteiktajos laikos, aicināt viņu pārbaudīt jaunas nodaļas/atjauninājumus.
+5 Lietotājs var kārtot grāmatas pēc nosaukuma, darbības statusa, pēdējā atjauninājuma vai paziņojuma laika.
+
+Nefunkcionālās prasības:
+1 Sistēma ir jāizmanto ar atbildes laiku mazāk par 2 sekundēm grāmatu ielādes un paziņojumu sūtīšanas operācijām, var apkalpot vismaz 1000 vienlaikus aktīvus lietotājus.
+2 Platforma ir jābūt pieejamām vismaz 99% laika, paziņojumi ir jāsūta pēc ieplānotā laika ar maksimāli 5 minūtes aizturi.
+3 Interfeisam jābūt intuitīvam un vidēji apmācītam lietotājam jābūt iespējai uzsākt darbu ar aplikāciju bez speciālas apmācības, un visām pamatfunkcijām jābūt pieejamām ne vairāk kā 3 klikšķos.
