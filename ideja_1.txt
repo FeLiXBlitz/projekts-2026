@@ -35,5 +35,5 @@ FUNKCIONĀLĀS PRASĪBAS:
 
 NEFUNKCIONĀLĀS PRASĪBAS:
 1 Sistēma reaģē uz lietotāja darbībām (grāmatas pievienošana, piezīmju rediģēšana) ne vairāk kā 2 sekunžu laikā.
-2 GUI ir intuitīvs un viegli izmantojams lietotājiem dažāda vecuma un tehniskas pieredzes līmenī.
+2 Viegli izmantojams lietotājiem dažāda vecuma un tehniskas pieredzes līmenī.
 3 Visas lietotāja ievadītās informācijas (grāmatas, piezīmes, progress) tiek glabātas un atgūtas bez zudumiem.
