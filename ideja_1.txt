@@ -23,3 +23,17 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
     1) Kopējais lappušu skaits un izlasīto lappušu skaits (iespējams, % no visām lappusēm)
     2) Iespēja veikt piezīmes par grāmatu (viedoklis, grāmatas kopsavilkums un sižets vietā, kur lietotājs pārtrauca lasīt)
     3) Grāmatas nosaukums un kārtošana pēc nosaukuma
+
+
+
+FUNKCIONĀLĀS PRASĪBAS:
+1 Lietotājs var pievienot jaunu grāmatu ar nosaukumu, autora vārdu, kopējo lappušu skaitu.
+2 Sistēma uzrāda izlasīto lappušu skaitu, atlikušo lappušu skaitu un procentuālo progresa rādītāju.
+3 Lietotājs var pievienot piezīmes par grāmatu (viedoklis, sižets, kopsavilkums, vieta, kur pārtrauca lasīt).
+4 Sistēma ļauj kārtot grāmatas pēc nosaukuma, autora vai lasīšanas statusa (pabeigtas, nepabeigtās).
+5 Lietotājs var atzīmēt grāmatu kā "lasīšanā", "pabeigta" vai "uz vēlāk".
+
+NEFUNKCIONĀLĀS PRASĪBAS:
+1 Sistēma reaģē uz lietotāja darbībām (grāmatas pievienošana, piezīmju rediģēšana) ne vairāk kā 2 sekunžu laikā.
+2 GUI ir intuitīvs un viegli izmantojams lietotājiem dažāda vecuma un tehniskas pieredzes līmenī.
+3 Visas lietotāja ievadītās informācijas (grāmatas, piezīmes, progress) tiek glabātas un atgūtas bez zudumiem.
