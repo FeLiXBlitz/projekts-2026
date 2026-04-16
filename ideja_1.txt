@@ -51,5 +51,47 @@ Jā, ja lietotājs saglabā daudzas saites uz katru grāmatu, ko viņš lasa, v�
 Vai šī programma atbilst visiem vērtēšanas kritērijiem?
 Es domāju ka jā
 
+
+
+Atrast un salīdzināt vismaz divus līdzīgus jau esošus risinājumus.
+
+Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+
+Izveidot ekrānaviņus lai būtu redzams kā izskatās risinājums.
+
+Dotu informāciju jaunā datnē Github repozitorijā.
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 Viegli, ērti un efektivi
+
+
+
+
+
+
+1. Goodreads
+Platforma grāmatu uzskaitei un atsauksmēm.
+Plusi:
+Liela kopiena
+Daudz atsauksmju
+Sociālās funkcijas
+
+Mīnusi:
+Novecojis dizains
+Maz statistikas
+Pārblīvēts interfeiss
+
+2. StoryGraph
+Moderns rīks ar fokusu uz statistiku.
+Plusi:
+Skaidrs dizains
+Detalizēta statistika
+Personalizēti ieteikumi
+
+Mīnusi:
+Mazāka kopiena
+Maz sociālo funkciju
+
+
+Secinājums
+Goodreads → sociālai lietošanai
+StoryGraph → personīgai analīzei
