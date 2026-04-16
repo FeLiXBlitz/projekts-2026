@@ -41,11 +41,15 @@ NEFUNKCIONĀLĀS PRASĪBAS:
 
 Cik ļoti mani aizrauj šī tēma?
 Man interesē šīs projekts
+
 Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
 3-4
+
 Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
 Jā, ja lietotājs saglabā daudzas saites uz katru grāmatu, ko viņš lasa, vēlas lasīt vai vēlētos lasīt vēlreiz.
+
 Vai šī programma atbilst visiem vērtēšanas kritērijiem?
 Es domāju ka jā
+
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 Viegli, ērti un efektivi
